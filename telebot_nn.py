@@ -187,7 +187,7 @@ def response(sentence):
 
 !pip install pyTelegramBotAPI
 
-bot_API="5834870389:AAE1zje9dBYaX9XepR5V4mBlzJ3cgVYZlyM"
+bot_API="paste you telegrambot api"
 import telebot
 bot=telebot.TeleBot(bot_API,parse_mode=None)
 
